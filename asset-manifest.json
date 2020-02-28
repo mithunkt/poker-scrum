@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/poker-scrum/static/css/main.f49af803.chunk.css",
-    "main.js": "/poker-scrum/static/js/main.cc1d7f8c.chunk.js",
-    "main.js.map": "/poker-scrum/static/js/main.cc1d7f8c.chunk.js.map",
+    "main.js": "/poker-scrum/static/js/main.97a34bc4.chunk.js",
+    "main.js.map": "/poker-scrum/static/js/main.97a34bc4.chunk.js.map",
     "runtime-main.js": "/poker-scrum/static/js/runtime-main.a93d6388.js",
     "runtime-main.js.map": "/poker-scrum/static/js/runtime-main.a93d6388.js.map",
     "static/js/2.f76f8b07.chunk.js": "/poker-scrum/static/js/2.f76f8b07.chunk.js",
     "static/js/2.f76f8b07.chunk.js.map": "/poker-scrum/static/js/2.f76f8b07.chunk.js.map",
     "index.html": "/poker-scrum/index.html",
-    "precache-manifest.1f58a822342adb9bb7eb50d6595caa2f.js": "/poker-scrum/precache-manifest.1f58a822342adb9bb7eb50d6595caa2f.js",
+    "precache-manifest.b4e9d2d7d105f41bb5e7b78424ec0765.js": "/poker-scrum/precache-manifest.b4e9d2d7d105f41bb5e7b78424ec0765.js",
     "service-worker.js": "/poker-scrum/service-worker.js",
     "static/css/main.f49af803.chunk.css.map": "/poker-scrum/static/css/main.f49af803.chunk.css.map",
     "static/js/2.f76f8b07.chunk.js.LICENSE.txt": "/poker-scrum/static/js/2.f76f8b07.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a93d6388.js",
     "static/js/2.f76f8b07.chunk.js",
     "static/css/main.f49af803.chunk.css",
-    "static/js/main.cc1d7f8c.chunk.js"
+    "static/js/main.97a34bc4.chunk.js"
   ]
 }
