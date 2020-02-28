@@ -2,6 +2,7 @@
   "name": "poker-scrum",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mithunkt.github.io/poker-scrum/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
